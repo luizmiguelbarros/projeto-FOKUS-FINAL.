@@ -16,7 +16,7 @@
 }
 
 [data-contexto="descanso-longo"] {
-    --main-bg-color: linear-gradient(180deg, #1875E9 0%, #041832 48.44%, #01080E 100%);
+    --main-bg-color: linear-gradient(180deg, #ffc402 0%, #555822 48.44%, #1d1d0f 100%);
 }
 
 * {
